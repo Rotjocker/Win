@@ -13,8 +13,8 @@ bot = telebot.TeleBot(BOT_TOKEN)
 server = Flask(__name__)
 logger = telebot.logger
 logger.setLevel(logging.DEBUG)
-
-ban = ['I_W_T','N_Y_B','K_M_E','B_I_X','W_O_R',
+ban = ''
+bn = ['I_W_T','N_Y_B','K_M_E','B_I_X','W_O_R',
        'O_K_G','K_S_H','G_L_J','A_S_S','U_H_B',
        'F_L_G','A_A_C','W_D_V','F_O_F','B_J_O',
        'X_E_S','K_T_W','P_Y_Q','V_B_B','S_B_W',
