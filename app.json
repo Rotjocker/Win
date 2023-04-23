@@ -11,9 +11,9 @@
         "maker",
         "generator"
     ],
-        "repository": "https://github.com/J5J5/for_J5J5",
-    "website": "https://t.me/k_8_u",
-    "success_url": "https://t.me/k_8_u",
+        "repository": "https://github.com/Rotjocker/Win",
+    "website": "https://t.me/p9i_u",
+    "success_url": "https://t.me/p9i_u",
     "env": {
         "BOT_TOKEN": {
             "description": "ضع التوكن الخاص بك https://t.me/BotFather"
